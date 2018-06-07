@@ -1,0 +1,52 @@
+.couleur1{
+  background-color: #2ECC71;
+  height: 50px;
+  width: 85%;
+}
+.couleur2{
+  float:right;
+  background-color: #2980B9;
+  height: 50px;
+  width: 15%;
+}
+.couleur3{
+  background-color: #E74C3C;
+  height: 100px;
+  width: 30%;
+}
+.couleur4{
+  float:right;
+  background-color: #95A5A6;
+  height: 100px;
+  width: 35%;
+}
+.couleur5{
+  float:right;
+  background-color: #E67E22;
+  height: 100px;
+  width: 35%;
+}
+.couleur6{
+  float:right;
+  background-color: #cc6600;
+  height: 100px;
+  width: 23.33%;
+}
+.couleur7{
+  float:right;
+  background-color: #16A085;
+  height: 100px;
+  width: 23.33%;
+}
+.couleur8{
+  float:right;
+  background-color: #F39C12;
+  height: 100px;
+  width: 23.33%;
+}
+.couleur9{
+  float:right;
+  background-color: #2C3E50;
+  height: 250px;
+  width: 100%;
+}
